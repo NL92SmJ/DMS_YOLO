@@ -96,8 +96,18 @@ The project includes an automated post-session analysis script (`analyze_dms.py`
 * **`_safety_analysis_chart.png`:** Scenario analysis translating distraction and inactivity durations into physical distances covered at 130 km/h (~36.1 m/s), offering stark visual impact for safety audits.
 <img width="2970" height="1414" alt="smart_cockpit_log_20261117_081338_safety_analysis_chart" src="https://github.com/user-attachments/assets/ffee1d08-0d85-4722-907e-226f874e9d4c" />
 
+## 6. Screenshots of Live-Demo
+1.) Base-Case:
+<img width="1920" height="983" alt="normal" src="https://github.com/user-attachments/assets/7913eb91-7c0d-4a0d-8103-34c6d0b28e37" />
 
-## 6. Outlook: Hardware Scaling, Edge Advantages & Jetson Workflow
+2.) Closed Eyes:
+<img width="1920" height="1080" alt="eyes_closed" src="https://github.com/user-attachments/assets/b96e2c87-fb3a-4959-8e47-5a5afb24f259" />
+
+3.) Cellphone:
+<img width="1920" height="1080" alt="cellphone" src="https://github.com/user-attachments/assets/c10c4bb2-218b-48e9-a3d9-d3219e3f6c23" />
+
+
+## 7. Outlook: Hardware Scaling, Edge Advantages & Jetson Workflow
 
 ### Why Local GPU Power in Cars Matters (Edge AI Rationale)
 1. **Deterministic Latency & Safety:** At 130 km/h (~36 m/s), every millisecond counts. Cloud-based solutions suffer from cellular dead zones and latency fluctuations. Local edge acceleration guarantees deterministic inference times for instant warnings.
