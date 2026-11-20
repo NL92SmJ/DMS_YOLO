@@ -98,13 +98,16 @@ The project includes an automated post-session analysis script (`analyze_dms.py`
 
 ## 6. Screenshots of Live-Demo
 1.) Base-Case:
-<img width="1920" height="983" alt="normal" src="https://github.com/user-attachments/assets/7913eb91-7c0d-4a0d-8103-34c6d0b28e37" />
+<img width="1547" height="983" alt="base" src="https://github.com/user-attachments/assets/6132d10a-8eb4-4b26-a36c-641de781ca4f" />
+
 
 2.) Closed Eyes:
-<img width="1920" height="1080" alt="eyes_closed" src="https://github.com/user-attachments/assets/b96e2c87-fb3a-4959-8e47-5a5afb24f259" />
+<img width="1555" height="1080" alt="closed" src="https://github.com/user-attachments/assets/1d8a6cb8-8f2d-4877-8df7-3943ebd01ecd" />
+
 
 3.) Cellphone:
-<img width="1920" height="1080" alt="cellphone" src="https://github.com/user-attachments/assets/c10c4bb2-218b-48e9-a3d9-d3219e3f6c23" />
+<img width="1541" height="1080" alt="cellphone" src="https://github.com/user-attachments/assets/df14a998-2ca4-4b2d-9ec6-5e766f428a2d" />
+
 
 
 ## 7. Outlook: Hardware Scaling, Edge Advantages & Jetson Workflow
